@@ -1,6 +1,5 @@
+#TIME YOU HAVE LEFT
 from calendar import month
-
-
 age = int(input("Enter your age ?\n"))
 max_age = 90
 year_left = max_age - age
