@@ -1,4 +1,8 @@
-test = int(input("Enter number of Test Cases"))
+#LEXI_STRING
+#P is dictionary
+#S is sub string to find according to dict p
+
+test = int(input())
 
 while (test>0):
     p = input()
