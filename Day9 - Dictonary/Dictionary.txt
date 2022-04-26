@@ -1,0 +1,12 @@
+How to create a Dictionary
+
+{Key: Value}
+
+Multiple entries in a Dictionary
+
+{
+    "key1": "abc",
+    "key2": "abcd",
+    "key3": "abcde",
+    "key4": "abcfgh",
+}
